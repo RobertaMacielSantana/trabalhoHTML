@@ -1,0 +1,38 @@
+*{margin: 0; padding: 0;}
+
+.menu{
+    padding:10px;
+    margin: 0 auto;
+    background-color:#ec02d84b;
+
+}
+.box{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.menu-links{
+    text-decoration: none;
+    padding: 5px;
+    margin-bottom: 4px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(212, 92, 132);
+}
+.menu-nome{
+    font-family: 'Indie Flower', cursive;
+    font-size: 36px;
+    color: blue;
+}
+.box-menu > ul {
+    list-style: none;
+    display: flex  
+     
+}
+.box-menu > ul> li {
+    padding: 5px;
+    background-color: rgba(151, 146, 146, 0.753);
+       
+}
